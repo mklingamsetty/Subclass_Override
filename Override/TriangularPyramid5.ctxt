@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TriangularPyramid5
+comment1.params=l\ b\ h
+comment1.target=TriangularPyramid5(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
